@@ -1,0 +1,3 @@
+  CGGM.mean	   corner-preservinc smoothing
+  CGGM.lts	   robust version of CGGM.mean
+  CGGM.autoscale   calculate scale parameter for CGGM.mean and CGGM.lts
