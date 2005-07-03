@@ -53,7 +53,8 @@
 }
 
 \author{
-  Tim Garlipp (garlipp@mathematik.uni-oldenburg.de)
+  Tim Garlipp (garlipp@mathematik.uni-oldenburg.de),
+  Martin Hillebrand (Martin.Hillebrand@gmx.de)
 }
 
 \examples{
