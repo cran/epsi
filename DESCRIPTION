@@ -1,12 +1,13 @@
 Package: epsi
-Version: 1.0-3
-Date: 2007-10-21
+Version: 1.1-0
+Date: 2010-02-05
 Title: Edge Preserving Smoothing for Images
-Author: Tim Garlipp <garlipp@mathematik.uni-oldenburg.de>, Martin Hillebrand <Martin.Hillebrand@gmx.de>
-Depends: R
-Description: Smoothing methods for images which are based on a redescending
-   M kernel estimator which preserves edges and corners.
-Maintainer: ORPHANED
+Author: Tim Garlipp <TimGarlipp@gmx.de>
+Description: Smoothing methods for images which are based on a
+        redescending M kernel estimator which preserves edges and
+        corners.
+Maintainer: Tim Garlipp <TimGarlipp@gmx.de>
 License: GPL-2
-URL: 
-Packaged: Sun Oct 21 00:23:04 2007; hornik
+Packaged: 2010-02-04 20:10:35 UTC; ligges
+Repository: CRAN
+Date/Publication: 2010-02-08 09:03:17

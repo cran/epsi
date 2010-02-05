@@ -48,17 +48,15 @@
   \emph{J. Amer. Statis. Assoc.} 93, 526-541.
 
   Hillebrand, M. (2002) On Robust Corner-Preserving Smoothing in Image
-  Processing, \emph{Carl-von-Ossietzky-Universität Oldenburg, Dissertation}
-  (http://docserver.bis.uni-oldenburg.de/publikationen/dissertation/2003/hilonr03/hilonr03.html).
+  Processing, \emph{Carl-von-Ossietzky-Universitaet Oldenburg, Dissertation}
+  \url{http://docserver.bis.uni-oldenburg.de/publikationen/dissertation/2003/hilonr03/hilonr03.html}.
 }
 
 \author{
-  Tim Garlipp (garlipp@mathematik.uni-oldenburg.de),
-  Martin Hillebrand (Martin.Hillebrand@gmx.de)
+  Tim Garlipp, \email{TimGarlipp@gmx.de}
 }
 
 \examples{
-
   y <- matrix(rep(0,60*60),nrow=60)
   y[21:40,21:40]<-1
   y <- y + matrix(rnorm(60*60,0,0.1),nrow=60)

@@ -1,0 +1,2 @@
+useDynLib(epsi)
+export(CGGM.mean, CGGM.lts, CGGM.autoscale)
